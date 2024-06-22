@@ -1,4 +1,4 @@
-[![ghheader.jpg](https://i.postimg.cc/NMXFbqMW/ghheader.jpg)](https://postimg.cc/N9gQfnR4)
+[ghheader.jpg](https://postimg.cc/N9gQfnR4)
 
 ## Hello, I'm ⭐ José Emilio ⭐
 ================================
