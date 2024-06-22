@@ -16,6 +16,7 @@
   <li>🤖 I'm currently a <strong>Student in Robotics and Digital Systems</strong> at Mexico. </li>
   <li>⚙️ Studying at <strong>Tecnologico de Monterrey</strong> </li>
   <li>🐍 Great <strong>Python</strong> enjoyer</li>
+  <li>💻 <strong>FIRST</strong> Alumni 💚 16818 💛 4010 </li>
 </ul>
 
 
